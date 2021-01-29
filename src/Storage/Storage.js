@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 class Storage {
     constructor( storageName = 'gameScoreboard', initialValue = '[]') {
